@@ -194,11 +194,17 @@ Day 3 — Island Adventures
 
 Booklet includes:
 ✔ day plans
+
 ✔ timings
+
 ✔ travel tips
+
 ✔ cultural notes
+
 ✔ weather expectations
+
 ✔ packing checklist
+
 ✔ safety guidance
 
 
@@ -256,9 +262,13 @@ It can be extended into a commercial agent for:
 TravelGenie AI transforms a traditionally manual, confusing, time-consuming task into a fully automated, intelligent, and enjoyable travel-planning experience.
 
 ✔ Multi-Agent
+
 ✔ Tool-Augmented
+
 ✔ Memory-Enabled
+
 ✔ Beautifully Designed
+
 ✔ Professional Travel Output
 
 It embodies everything taught in the 5-Day AI Agents Intensive Course with Google, packaged into a real, practical, delightful project.
