@@ -28,10 +28,15 @@ The goal is to remove the friction of travel planning so anyone can get a high-q
 
 ### ✨ Motivation
 Planning a trip today is time-consuming:
+
 📌 Too many blogs to read
+
 📌 Confusing hotel choices
+
 📌 Hard to estimate budgets
+
 📌 Managing dates, routes & timings manually
+
 📌 Writing everything neatly is even harder
 
 TravelGenie AI solves this by using LLM-powered agents and tool-augmented intelligence to completely automate the process.
@@ -193,6 +198,7 @@ Day 3 — Island Adventures
           … and so on.
 
 Booklet includes:
+
 ✔ day plans
 
 ✔ timings
@@ -209,6 +215,7 @@ Booklet includes:
 
 
 ### 🌟 Features That Make This Project Unique
+
 ✨ 1. Fully Automated End-to-End Travel Planning
 
 No manual research.
