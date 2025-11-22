@@ -1,5 +1,5 @@
 # TravelGenie-AI
-TravelGenie AI is an intelligent multi-agent travel planning system that automates the entire process of researching destinations, building day-wise itineraries, estimating budgets, recommending hotels &amp; food spots, and generating a beautifully formatted travel booklet.
+TravelGenie AI is an intelligent multi-agent travel planning system that automates the entire process of researching destinations, building day-wise itineraries,estimating budgets, recommending hotels &amp; food spots, and generating a beautifully formatted travel booklet.
 
 
 #  🚩 Problem Statement
@@ -44,6 +44,7 @@ TravelGenie AI solves this by using LLM-powered agents and tool-augmented intell
 You simply type:
 
 ➡️ “Goa 5” → Generate a 5-day Goa travel booklet
+
 ➡️ “Tokyo 7” → 7-day Japan experience plan
 
 …and everything is instantly prepared.
@@ -109,6 +110,7 @@ For:
 
 ### 🧠 Memory & Context Engineering
 TravelGenie AI uses:
+
 ✔ Session state (InMemorySessionService-style)
 To recall:
            last topic typed
